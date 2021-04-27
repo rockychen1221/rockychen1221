@@ -5,5 +5,3 @@
 ### 🎧 Spotify Playing
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="rockychen Spotify Playing" width="350" />](https://open.spotify.com/user/21s5hjkkntj8bvc6xjbjvsl0m)
-
-spotify:user:21s5hjkkntj8bvc6xjbjvsl0m
